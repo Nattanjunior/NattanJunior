@@ -3,7 +3,7 @@
  I love development, and I'm always willing to evolve my ability and knowledge more and more!
  
 
-const Natan Junior = {   
+const NatanJunior = {   
 
 name: "Nataniel junior",  
 office: "Full-stack Developer,  
