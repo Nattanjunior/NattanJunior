@@ -30,7 +30,7 @@ status: "always willing to learn!"
   <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30px" height="30px">
   </span>
    <span> 
-  <img src="https://cdn.imgbin.com/6/4/25/imgbin-sqlite-database-android-mysql-android-UAw0kAPAnuPftCRT7E5LkEjhD.jpg" alt="MySQL" width="30px" height="30px">
+  <img src="https://cdn.imgbin.com/6/4/25/imgbin-sqlite-database-android-mysql-android-UAw0kAPAnuPftCRT7E5LkEjhD.jpg" alt="SQLite" width="30px" height="30px">
   <span> 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="30px" height="30px">
   </span>
@@ -39,6 +39,8 @@ status: "always willing to learn!"
   </span>
    <span> 
   <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Sass" width="30px" height="30px">
+  </span>
+  <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
   </span>
   
