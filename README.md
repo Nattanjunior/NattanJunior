@@ -37,6 +37,9 @@ status: "always willing to learn!"
    <span> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="30px" height="30px">
   </span>
+   <span> 
+  <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Sass" width="30px" height="30px">
+  </span>
   </span>
   
 <h1>Linguagens em Aprendizado</h1>
