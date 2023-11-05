@@ -46,8 +46,11 @@ status: "always willing to learn!"
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="30px" height="30px">
   </span>
   </span>
+  <img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg" alt="Express" width="30px" height="30px">
+  </span>
+  </span>
   
-<h1>Linguagens em Aprendizado</h1>
+
 
 
    
