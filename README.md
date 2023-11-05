@@ -43,7 +43,7 @@ status: "always willing to learn!"
   <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
   </span>
-  <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap" width="30px" height="30px">
+  <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap" width="40px" height="30px">
   </span>
   </span>
   
