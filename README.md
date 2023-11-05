@@ -43,7 +43,7 @@ status: "always willing to learn!"
   <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
   </span>
-  <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="Bootstrap" width="30px" height="30px">
+  <img src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png" alt="Bootstrap" width="30px" height="30px">
   </span>
   </span>
   
