@@ -43,6 +43,9 @@ status: "always willing to learn!"
   <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
   </span>
+  <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="Bootstrap" width="30px" height="30px">
+  </span>
+  </span>
   
 <h1>Linguagens em Aprendizado</h1>
 
