@@ -4,11 +4,11 @@ Entry-level Full Stack Developer with a passion for creating innovative and func
  
 
 const NatanJunior = {      
-name: "Nataniel junior",        
-office: "Full-stack Developer,       
-Experience: "beginner",       
-nationality: "Brazilian",       
-status: "always willing to learn!"
+    name: "Nataniel junior",        
+    office: "Full-stack Developer,       
+    Experience: "beginner",       
+    nationality: "Brazilian",       
+    status: "always willing to learn!"
 }
 
 <h1>Linguagens e Ferramentas</h1>  
