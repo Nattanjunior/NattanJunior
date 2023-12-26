@@ -1,20 +1,23 @@
 ### Hi there 👋
- 
- I love development, and I'm always willing to evolve my ability and knowledge more and more!
+
+Entry-level Full Stack Developer with a passion for creating innovative and functional solutions. I have skills in front-end and back-end web development, using technologies such as HTML, CSS, JavaScript, Node.js and databases. I am focused on learning and constantly updating myself, always seeking to improve my technical skills. Communicative and collaborative, I am ready to contribute to challenging projects and work as a team to achieve exceptional results. Open to job opportunities as a Full Stack developer, where I can apply my knowledge and grow professionally.
  
 
 const NatanJunior = {   
-
 name: "Nataniel junior",  
 office: "Full-stack Developer,  
 Experience: "beginner",  
 nationality: "Brazilian",   
 status: "always willing to learn!"
-
 }
 
+<style>
+ h1{
+  background-color:red;
+</style>
 
-<h1> Linguagens e Ferramentas </h1>  
+
+<h1>Linguagens e Ferramentas</h1>  
 
 
 <span><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="30px" height="30px"></span>
