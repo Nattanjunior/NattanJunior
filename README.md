@@ -1,4 +1,4 @@
-### welcome 👋
+### Welcome 👋
 
 Entry-level Full Stack Developer with a passion for creating innovative and functional solutions. I have skills in front-end and back-end web development, using technologies such as HTML, CSS, JavaScript, Node.js and databases. I am focused on learning and constantly updating myself, always seeking to improve my technical skills. Communicative and collaborative, I am ready to contribute to challenging projects and work as a team to achieve exceptional results. Open to job opportunities as a Full Stack developer, where I can apply my knowledge and grow professionally.
  
