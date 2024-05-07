@@ -35,11 +35,10 @@ const NatanJunior = {
    <span> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="30px" height="30px">
   </span>
-   
+   <span>
   <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
-  
-  </span>
+  <span>
   <img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg" alt="Express" width="30px" height="30px">
   </span>
   </span>
