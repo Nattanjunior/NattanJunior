@@ -12,7 +12,10 @@ const NatanJunior = {
     status: "always willing to learn!"
 }
 
-<h1>Languages and Tools</h1>  
+
+## social network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataniel-junior-20365a264/)
+## Languages and Tools 
 
 
 <span><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="30px" height="30px"></span>
