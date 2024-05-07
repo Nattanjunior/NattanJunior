@@ -15,6 +15,7 @@ const NatanJunior = {
 
 ## social network
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataniel-junior-20365a264/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nattan_jr0/)
 ## Languages and Tools 
 
 
