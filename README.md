@@ -1,6 +1,6 @@
-### Welcome 👋
+## Welcome 👋
 
-Entry-level Full Stack Developer with a passion for creating innovative and functional solutions. I have skills in front-end and back-end web development, using technologies such as HTML, CSS, JavaScript, Node.js and databases. I am focused on learning and constantly updating myself, always seeking to improve my technical skills. Communicative and collaborative, I am ready to contribute to challenging projects and work as a team to achieve exceptional results. Open to job opportunities as a Full Stack developer, where I can apply my knowledge and grow professionally.
+I'm a Full Stack developer, with experience in JavaScript, React, React Native, Node Js and MongoDB. I have experience as a freelancer and am currently focused on mobile development, always seeking to evolve my knowledge and grow professionally. Supporter and enthusiast of the team dedicated to streamlining processes and resolving project problems efficiently.
  
 
 const NatanJunior = {      
@@ -35,14 +35,10 @@ const NatanJunior = {
    <span> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="30px" height="30px">
   </span>
-   <span> 
-  <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Sass" width="30px" height="30px">
-  </span>
+   
   <img src="https://logospng.org/download/mongodb/mongodb-2048.png" alt="MongoDB" width="30px" height="30px">
   </span>
-  </span>
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="30px" height="30px">
-  </span>
+  
   </span>
   <img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg" alt="Express" width="30px" height="30px">
   </span>
