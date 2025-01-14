@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-I'm a Full Stack developer, with experience in JavaScript, React, React Native, Node Js and MongoDB. I have experience as a freelancer and am currently focused on mobile development, always seeking to evolve my knowledge and grow professionally. Supporter and enthusiast of the team dedicated to streamlining processes and resolving project problems efficiently.
+Desenvolvedor Full Stack com ampla experiência em JavaScript, React, Next.js, React Native, Node.js e Prisma ORM. Trabalhei como freelancer, onde me destaquei por entregar soluções robustas e escaláveis para diversos clientes.
  
 
 const NatanJunior = {      
