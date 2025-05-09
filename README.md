@@ -5,7 +5,7 @@ Comecei minha trajetória como desenvolvedor de software em 2022, quando iniciei
 Curso engenharia de software na Faculdade de Informática e Administração Paulista (FIAP).
 Tenho experiência com desenvolvimento full stack, incluindo APIs, integrações entre sistemas, modelagem de banco de dados relacional com PostgreSQL e uso do Prisma ORM. Também já trabalhei com ferramentas como NestJS, Next.js e Tailwind CSS, sempre buscando escrever código limpo, organizado e eficiente.
 
-Meu comprometimento e interesse em tecnologia vão além das linhas de código. Estou sempre em busca de novos aprendizados. Atualmente, sigo me aprimorando como desenvolvedor full stack,
+Meu comprometimento e interesse em tecnologia vão além das linhas de código. Estou sempre em busca de novos aprendizados. Atualmente, sigo me aprimorando como desenvolvedor full stack
  
 
 
