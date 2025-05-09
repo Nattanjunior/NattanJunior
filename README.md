@@ -1,16 +1,12 @@
 ## Welcome 👋
 
-Desenvolvedor Full Stack com ampla experiência em JavaScript, React, Next.js, React Native, Node.js e Prisma ORM. Trabalhei como freelancer, onde me destaquei por entregar soluções robustas e escaláveis para diversos clientes.
+Comecei minha trajetória como desenvolvedor de software em 2022, quando iniciei meus estudos autodidata. Desde então, venho atuando com foco na criação e manutenção de sistemas web, utilizando principalmente JavaScript/TypeScript.
+
+Curso engenharia de software na Faculdade de Informática e Administração Paulista (FIAP).
+Tenho experiência com desenvolvimento full stack, incluindo APIs, integrações entre sistemas, modelagem de banco de dados relacional com PostgreSQL e uso do Prisma ORM. Também já trabalhei com ferramentas como NestJS, Next.js e Tailwind CSS, sempre buscando escrever código limpo, organizado e eficiente.
+
+Meu comprometimento e interesse em tecnologia vão além das linhas de código. Estou sempre em busca de novos aprendizados. Atualmente, sigo me aprimorando como desenvolvedor full stack,
  
-
-const NatanJunior = {      
-
-    name: "Nataniel junior",
-    office: "Full-stack Developer, 
-    Experience: "beginner",    
-    nationality: "Brazilian",
-    status: "always willing to learn!"
-}
 
 
 ## Social network
