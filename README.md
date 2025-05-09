@@ -25,19 +25,6 @@ Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 
 ---
 
-## 📈 Experiência
-
-### 🔹 DIGIENGE — Desenvolvedor Full Stack Júnior  
-🗓️ Jan 2025 – Abr 2025  
-Desenvolvimento front-end e back-end de sistemas CRM utilizando **Next.js**, **JavaScript**, **Node.js**, **NestJS**, **PostgreSQL** e **Prisma**.  
-Responsável por:
-- Implementar novas funcionalidades
-- Corrigir bugs e manter os sistemas
-- Integrar APIs externas
-- Otimizar performance
-- Adaptar funcionalidades conforme demandas dos clientes
-
----
 
 ## 🎓 Formação Acadêmica
 
