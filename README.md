@@ -38,7 +38,7 @@ Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 
 - 📧 Email: fnatanieljunior@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/nattan-junior-20365a264](http://www.linkedin.com/in/nattan-junior-20365a264)  
-- 🖥️ GitHub: [github.com/nattanjunior](https://github.com/nattanjunior)
+- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5582996506043)
 
 ---
 
