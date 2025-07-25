@@ -10,22 +10,6 @@ Atualmente curso Engenharia de Software na FIAP, sempre buscando evoluir como de
 
 Se quiser trocar ideia, só me chamar! Bora conversar 👊
 
-<p align="left">
-    <a href="https://github.com/NattanJunior?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NattanJunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NattanJunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -44,7 +28,7 @@ Se quiser trocar ideia, só me chamar! Bora conversar 👊
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaattanJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
