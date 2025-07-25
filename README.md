@@ -1,46 +1,54 @@
-<h1 align="center">Nataniel Junior</h1>
-<p align="center">🚀 Desenvolvedor Full Stack | Apaixonado por tecnologia e aprendizado contínuo</p>
+# 👩🏻‍💻 Nattan Junior
+
+**`Desenvolvedor Backend`**
+
+Fala! Sou o Nattan Junior, desenvolvedor back-end. Comecei na área em 2022 estudando por conta própria, comecei por front-end, mas descobri o lado back-end, e vi que era o meu lugar.
+
+Hoje trabalho principalmente com Node.js, TypeScript, NestJS e PostgreSQL, criando APIs, integrações entre sistemas e modelagem de banco com Prisma ORM. Também já mexi bastante com Next.js, React.js e Tailwind, mas meu foco é deixar o servidor redondo, seguro e performático.
+
+Atualmente curso Engenharia de Software na FIAP, sempre buscando evoluir como dev, seja estudando arquitetura limpa, boas práticas ou formas melhores de escrever código simples e eficiente.
+
+Se quiser trocar ideia, só me chamar! Bora conversar 👊
+
+<p align="left">
+    <a href="https://github.com/NattanJunior?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/NattanJunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/NattanJunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🧠 Sobre mim
+### 📊 Estatísticas
 
-Comecei minha trajetória como desenvolvedor de software em 2022, quando iniciei meus estudos autodidata. Desde então, venho atuando com foco na criação e manutenção de sistemas web, utilizando principalmente **JavaScript/TypeScript**.
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=NattanJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-Curso **Engenharia de Software** na **Faculdade de Informática e Administração Paulista (FIAP)**. Tenho experiência com desenvolvimento **full stack**, incluindo **APIs**, **integrações entre sistemas**, **modelagem de banco de dados relacional com PostgreSQL** e uso do **Prisma ORM**. Também já trabalhei com ferramentas como **NestJS**, **Next.js** e **Tailwind CSS**, sempre buscando escrever **código limpo, organizado e eficiente**.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaattanJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Meu comprometimento e interesse em tecnologia vão além das linhas de código. Estou sempre em busca de novos aprendizados. Atualmente, sigo me aprimorando como **desenvolvedor full stack**.
+</p>
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** JavaScript, TypeScript, Python
-- **Back-end:** Node.js, NestJS
-- **Front-end:** React, Next.js, React Native
-- **Estilização:** Tailwind CSS
-- **Banco de Dados:** PostgreSQL, MongoDB
-- **ORM:** Prisma
-- **Outros:** REST APIs, Integrações, Clean Code, Git
-
----
-
-
-## 🎓 Formação Acadêmica
-
-**Faculdade de Informática e Administração Paulista (FIAP)**  
-📅 2025 – 2028
-🎓 Engenharia de Software
-
----
-
-## 🌐 Contato
-
-- 📧 Email: fnatanieljunior@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nattan-junior-20365a264](http://www.linkedin.com/in/nattan-junior-20365a264)  
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5582996506043)
-
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,fastify,redis,bull,postgres,prisma,mongodb," />
