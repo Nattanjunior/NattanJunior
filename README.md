@@ -29,7 +29,7 @@ Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 ## 🎓 Formação Acadêmica
 
 **Faculdade de Informática e Administração Paulista (FIAP)**  
-📅 2025 – 2029  
+📅 2025 – 2028
 🎓 Engenharia de Software
 
 ---
@@ -43,5 +43,5 @@ Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,nextjs,tailwind,postgres,prisma,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,redis,bull,postgres,prisma,mongodb," />
 </p>
