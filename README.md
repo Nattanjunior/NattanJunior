@@ -43,5 +43,5 @@ Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,redis,bull,postgres,prisma,mongodb," />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,fastify,redis,bull,postgres,prisma,mongodb," />
 </p>
