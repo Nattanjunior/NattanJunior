@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nattan Junior
+# 👨‍💻 Nattan Junior
 
 **`Desenvolvedor Backend`**
 
