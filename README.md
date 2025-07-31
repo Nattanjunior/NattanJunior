@@ -20,9 +20,8 @@ Se quiser trocar ideia, só me chamar! Bora conversar 👊
 
 ---
 
-### 📊 Estatísticas
+### Most Used Languages
 
-<p>
 
 
 <img 
@@ -32,5 +31,4 @@ Se quiser trocar ideia, só me chamar! Bora conversar 👊
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
 
