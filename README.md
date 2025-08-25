@@ -14,7 +14,7 @@ Se quiser trocar ideia, só me chamar! Bora conversar 👊
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,fastapi,redis,postgres,prisma,mongodb,docker,git,react,nextjs,tailwind,jest " />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,redis,postgres,prisma,mongodb,docker,git,react,nextjs,tailwind,jest " />
 </p>
 
 
