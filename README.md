@@ -14,7 +14,6 @@ Só me chamar! Bora conversar 👊
 
 [NestJS Auth](https://github.com/Nattanjunior/nestjs-auth) - Sistema completo de autenticação e autorização construído com NestJS, implementando JWT, OAuth 2.0 e controle de acesso baseado em funções (RBAC) com CASL.  
 
-
 [Givoo](https://github.com/Nattanjunior/Givoo) - Givoo é uma plataforma de ações simples, segura e integrada ao Stripe.  
 Ideal para streamers, produtores de conteúdo e qualquer pessoa que deseja monetizar seu trabalho online.  
 
