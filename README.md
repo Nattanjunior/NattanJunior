@@ -12,14 +12,14 @@ Só me chamar! Bora conversar 👊
 
 # Projetos relevantes
 
-### [NestJS Auth](https://github.com/Nattanjunior/nestjs-auth) - Sistema completo de autenticação e autorização construído com **NestJS**, implementando **JWT**, **OAuth 2.0** e controle de acesso baseado em funções (**RBAC**) com **CASL**.  
+[NestJS Auth](https://github.com/Nattanjunior/nestjs-auth) - Sistema completo de autenticação e autorização construído com NestJS, implementando JWT, OAuth 2.0 e controle de acesso baseado em funções (RBAC) com CASL.  
 
 
-### [Givoo](https://github.com/Nattanjunior/Givoo) - **Givoo** é uma plataforma de ações simples, segura e integrada ao **Stripe**.  
-Ideal para streamers, produtores de conteúdo e qualquer pessoa que deseja **monetizar seu trabalho online**.  
+[Givoo](https://github.com/Nattanjunior/Givoo) - Givoo é uma plataforma de ações simples, segura e integrada ao Stripe.  
+Ideal para streamers, produtores de conteúdo e qualquer pessoa que deseja monetizar seu trabalho online.  
 
-### [Notifications Service](https://github.com/Nattanjunior/notifications-service) - Microsserviço de notificações construído com **NestJS, Prisma e PostgreSQL**.  
-Fornece uma API robusta e escalável para **criar, gerenciar e consultar notificações**.
+[Notifications Service](https://github.com/Nattanjunior/notifications-service) - Microsserviço de notificações construído com NestJS, Prisma e PostgreSQL.  
+Fornece uma API robusta e escalável para criar, gerenciar e consultar notificações.
 
 
 
