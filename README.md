@@ -10,7 +10,7 @@ Só me chamar! Bora conversar 👊
 
 
 
-# Projetos relevantes
+**Projetos relevantes**
 
 [NestJS Auth](https://github.com/Nattanjunior/nestjs-auth) - Sistema completo de autenticação e autorização construído com NestJS, implementando JWT, OAuth 2.0 e controle de acesso baseado em funções (RBAC) com CASL.  
 
