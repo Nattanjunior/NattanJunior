@@ -1,10 +1,15 @@
 # Nattan Junior
 
-**`Desenvolvedor FullStack`**
+**`Back-end Software Engineer | Node.js • Typescript • NestJS | APIs & Microservices`**
 
- Comecei na área em 2022 estudando por conta própria — sempre fui muito curioso e gostava muito de saber mais sobre o mundo da tecnologia. Hoje atuo principalmente com Node.js, TypeScript, NestJS e PostgreSQL, criando APIs, integrações entre sistemas e modelagem de banco com Prisma ORM. No front-end, tenho bastante experiência com Next.js, React.js e Tailwind CSS, desenvolvendo interfaces modernas e conectando tudo ao back-end para entregar soluções completas. Atualmente curso Engenharia de Software na FIAP, sempre buscando evoluir como dev, e fazer networking. 
- 
-Só me chamar! Bora conversar 👊 
+Back-end Software Engineer com foco em Node.js, Typescript, NestJS e PostgreSQL.
+Desde 2022 venho estudando e construindo APIs, integrações de sistemas e soluções backend robustas. Tenho experiência com, performance e segurança.
+
+No front-end, trabalho com Next.js e React para entregar produtos completos quando necessário, mas meu foco principal é backend e a entrega de sistemas escaláveis.
+
+Atualmente curso Engenharia de Software na FIAP e procuro sempre evoluir minhas soft e hard skills.
+
+Vamos trocar uma ideia? Estou aberto para oportunidades e colaborações.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nattanjunior)   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nattanjr.vercel.app)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fnatanieljunior@gmail.com) 
 
