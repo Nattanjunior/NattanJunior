@@ -2,14 +2,21 @@
 
 **`Software Developer Pleno | Node.js • TypeScript • NestJS | APIs Escaláveis & Microservices`**
 
-Back-end Software Engineer com foco em Node.js, Typescript, NestJS e PostgreSQL.
-Desde 2022 venho estudando e construindo APIs, integrações de sistemas e soluções backend robustas. Tenho experiência com, performance e segurança.
+Back-end Software Engineer com foco em Node.js, TypeScript e NestJS, atuando na
+construção de APIs escaláveis e sistemas backend preparados para alto volume
+de requisições.
 
-No front-end, trabalho com Next.js e React para entregar produtos completos quando necessário, mas meu foco principal é backend e a entrega de sistemas escaláveis.
+Possuo experiência com sistemas SaaS e CRM, integrações com APIs externas,
+cache com Redis, mensageria e otimização de queries, sempre priorizando
+performance, segurança e arquitetura bem definida.
 
-Atualmente curso Engenharia de Software na FIAP e procuro sempre evoluir minhas soft e hard skills.
+Atuo com front-end utilizando Next.js e React quando necessário, mas meu foco
+principal é backend e a entrega de soluções estáveis, escaláveis e de impacto
+real para o negócio.
 
-Vamos trocar uma ideia? Estou aberto para oportunidades e colaborações.
+Graduando em Engenharia de Software pela FIAP. Aberto a conexões, trocas de
+experiência e novas oportunidades.
+
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nattanjunior)   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nattanjr.vercel.app)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fnatanieljunior@gmail.com) 
 
