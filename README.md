@@ -1,6 +1,6 @@
 # Nattan Junior
 
-**`Back-end Software Engineer | Node.js • Typescript • NestJS | APIs & Microservices`**
+**`Software Developer Pleno | Node.js • TypeScript • NestJS | APIs Escaláveis & Microservices`**
 
 Back-end Software Engineer com foco em Node.js, Typescript, NestJS e PostgreSQL.
 Desde 2022 venho estudando e construindo APIs, integrações de sistemas e soluções backend robustas. Tenho experiência com, performance e segurança.
